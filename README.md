@@ -1,2 +1,2 @@
 # SeleniumPractice
-Practicing important Selenium concepts 
+Practicing important Selenium Automation concepts
