@@ -16,6 +16,8 @@ public class AdvanceLocators {
 		System.out.println(button);
 		Assert.assertEquals(button, "Login");
 		
+		System.out.println("some new changes");
+		
 		driver.close();
 
 	}
